@@ -1,0 +1,10 @@
+{
+  "AppDisplayName": "Hello Native World",
+  "AppName": "HelloNativeWorld",
+  "AppVersion": "1.0.0",
+  "BundleID": "be.wl.HelloNativeWorld",
+  "Externals": [],
+  "NSPlugins": [],
+  "NPMPlugins": [],
+  "UrlScheme": "HelloNativeWorld"
+}

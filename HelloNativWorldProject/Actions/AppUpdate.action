@@ -1,0 +1,8 @@
+{
+    "_Type": "Action.Type.ApplicationUpdate",
+    "ActionResult": {
+        "_Name": "AppUpdate"
+    },
+    "OnFailure": "/HelloNativWorld/Rules/AppUpdateFailure.js",
+    "OnSuccess": "/HelloNativWorld/Rules/AppUpdateSuccess.js"
+}

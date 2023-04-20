@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6A3FB3BA29F18D6A00C2AD93 /* HelloNativeWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloNativeWorld.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6AB6410229F1791C0062989C = {
+			isa = PBXGroup;
+			children = (
+				6A3FB3BA29F18D6A00C2AD93 /* HelloNativeWorld.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		6AB6410329F1791C0062989C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 6AB6410629F1791C0062989C /* Build configuration list for PBXProject "MDKHelloWorld" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6AB6410229F1791C0062989C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6AB6410729F1791C0062989C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		6AB6410829F1791C0062989C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6AB6410629F1791C0062989C /* Build configuration list for PBXProject "MDKHelloWorld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6AB6410729F1791C0062989C /* Debug */,
+				6AB6410829F1791C0062989C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6AB6410329F1791C0062989C /* Project object */;
+}
